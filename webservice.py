@@ -5,8 +5,8 @@ import wifi
 import socketpool
 
 # --- Configuration ---
-SSID = "Aman_4g"        # Replace with your Wi-Fi name
-PASSWORD = "amansah17"  # Replace with your Wi-Fi password
+SSID = "enternet"        # Replace with your Wi-Fi name
+PASSWORD = "zxae17"  # Replace with your Wi-Fi password
 
 # --- Setup onboard LED (GPIO2 on most ESP32 boards) ---
 try:
