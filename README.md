@@ -134,10 +134,6 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Created by [Your Name]
-
-## Acknowledgments
-
-- CircuitPython community
-- ESP32 development team
-- Open source contributors
+Created by Mr.Aman Sah
+Automation and RnD Engineer
+Email : amansah1717@gmail.com
